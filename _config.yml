@@ -201,6 +201,10 @@ exclude:
   - /test
   - /vendor
 
+collections:
+  categories:
+    output: true
+
 defaults:
   - scope:
       path: ""
