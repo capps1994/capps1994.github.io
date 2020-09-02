@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=337
 permalink: /mysql/mysql-backup-and-restore/
 dsq_thread_id:
   - "6291172321"
-image: /wp-content/uploads/2016/01/MySQL.png
+cover: /wp-content/uploads/2016/01/MySQL.png
 categories:
   - MySQL
 tags:

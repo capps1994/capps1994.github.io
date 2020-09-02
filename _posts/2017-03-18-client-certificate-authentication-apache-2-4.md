@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5695456342"
 amazonS3_cache:
   - 'a:12:{s:93:"//www.capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13.png";i:603;s:102:"//www.capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-1024x514.png";i:603;s:101:"//www.capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-300x151.png";i:603;s:93:"//www.CAPATEK-TUTORIALS.COM/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13.png";i:603;s:102:"//www.CAPATEK-TUTORIALS.COM/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-1024x514.png";i:603;s:101:"//www.CAPATEK-TUTORIALS.COM/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-300x151.png";i:603;s:93:"//www.Capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13.png";i:603;s:102:"//www.Capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-1024x514.png";i:603;s:101:"//www.Capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-300x151.png";i:603;s:93:"//dev.capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13.png";i:603;s:101:"//dev.capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-300x151.png";i:603;s:102:"//dev.capatek-tutorials.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13-1024x514.png";i:603;}'
-image: /wp-content/uploads/2017/03/apache-httpd.png
+cover: /wp-content/uploads/2017/03/apache-httpd.png
 categories:
   - Apache HTTP Server
 tags:

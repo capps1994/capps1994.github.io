@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5694763395"
 amazonS3_cache:
   - 'a:12:{s:60:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/2.png";i:272;s:68:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/2-243x300.png";i:272;s:93:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png";i:197;s:101:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25-300x226.png";i:197;s:93:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png";i:198;s:101:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56-300x226.png";i:198;s:93:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png";i:197;s:101:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25-300x226.png";i:197;s:93:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png";i:198;s:101:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56-300x226.png";i:198;s:60:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/2.png";i:272;s:68:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/2-243x300.png";i:272;}'
-image: /wp-content/uploads/2015/08/logo-ubuntu_su-orange-hex.png
+cover: /wp-content/uploads/2015/08/logo-ubuntu_su-orange-hex.png
 categories:
   - Linux
 tags:

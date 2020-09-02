@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=572
 permalink: /osx/add-environment-variables-mac-osx/
 dsq_thread_id:
   - "5725480769"
-image: /wp-content/uploads/2016/02/mac_os_x_logo-e1457916132405.png
+cover: /wp-content/uploads/2016/02/mac_os_x_logo-e1457916132405.png
 categories:
   - Mac OSX
 tags:

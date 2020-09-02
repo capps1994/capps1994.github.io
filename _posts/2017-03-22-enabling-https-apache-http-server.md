@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=614
 permalink: /apache-http-server/enabling-https-apache-http-server/
 dsq_thread_id:
   - "5694750373"
-image: /wp-content/uploads/2017/03/apache-httpd.png
+cover: /wp-content/uploads/2017/03/apache-httpd.png
 categories:
   - Apache HTTP Server
 tags:

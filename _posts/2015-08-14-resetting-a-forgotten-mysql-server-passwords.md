@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=210
 permalink: /mysql/resetting-a-forgotten-mysql-server-passwords/
 dsq_thread_id:
   - "6341892538"
-image: /wp-content/uploads/2016/01/MySQL.png
+cover: /wp-content/uploads/2016/01/MySQL.png
 categories:
   - MySQL
 tags:

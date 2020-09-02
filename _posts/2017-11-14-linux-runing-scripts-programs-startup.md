@@ -11,7 +11,7 @@ wpms_validate_analysis:
   - ""
 dsq_thread_id:
   - "6282299878"
-image: /wp-content/uploads/2015/08/linux.png
+cover: /wp-content/uploads/2015/08/linux.png
 categories:
   - Linux
 tags:

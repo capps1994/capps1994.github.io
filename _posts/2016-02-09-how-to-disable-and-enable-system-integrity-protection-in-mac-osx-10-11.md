@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=402
 permalink: /osx/how-to-disable-and-enable-system-integrity-protection-in-mac-osx-10-11/
 dsq_thread_id:
   - "5725330058"
-image: /wp-content/uploads/2016/02/mac_os_x_logo-e1457916132405.png
+cover: /wp-content/uploads/2016/02/mac_os_x_logo-e1457916132405.png
 categories:
   - Mac OSX
 tags:

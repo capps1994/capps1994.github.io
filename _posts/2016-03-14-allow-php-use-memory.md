@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=543
 permalink: /php/allow-php-use-memory/
 dsq_thread_id:
   - "5757835198"
-image: /wp-content/uploads/2016/03/php_logo.png
+cover: /wp-content/uploads/2016/03/php_logo.png
 categories:
   - PHP
 tags:

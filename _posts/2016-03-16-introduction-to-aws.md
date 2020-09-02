@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=555
 permalink: /aws/introduction-to-aws/
 dsq_thread_id:
   - "5853166022"
-image: /wp-content/uploads/2016/03/introduction-to-aws.png
+cover: /wp-content/uploads/2016/03/introduction-to-aws.png
 categories:
   - AWS
 tags:

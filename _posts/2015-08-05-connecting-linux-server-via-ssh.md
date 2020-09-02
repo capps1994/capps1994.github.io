@@ -10,7 +10,7 @@ dsq_thread_id:
   - "6082569073"
 amazonS3_cache:
   - 'a:6:{s:64:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/PuTTY.png";i:205;s:72:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/PuTTY-300x290.png";i:205;s:64:"//www.Capatek-tutorials.com/wp-content/uploads/2015/08/PuTTY.png";i:205;s:72:"//www.Capatek-tutorials.com/wp-content/uploads/2015/08/PuTTY-300x290.png";i:205;s:64:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/PuTTY.png";i:205;s:72:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/PuTTY-300x290.png";i:205;}'
-image: /wp-content/uploads/2015/08/linux.png
+cover: /wp-content/uploads/2015/08/linux.png
 categories:
   - Linux
 tags:

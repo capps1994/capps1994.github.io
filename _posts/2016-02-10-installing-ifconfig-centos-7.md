@@ -8,7 +8,7 @@ guid: https://dev.capatek-tutorials.com/?p=410
 permalink: /linux/installing-ifconfig-centos-7/
 dsq_thread_id:
   - "5766922290"
-image: /wp-content/uploads/2016/02/centos-logo.png
+cover: /wp-content/uploads/2016/02/centos-logo.png
 categories:
   - Linux
 tags:

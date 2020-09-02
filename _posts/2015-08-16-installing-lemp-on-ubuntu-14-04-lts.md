@@ -10,7 +10,7 @@ dsq_thread_id:
   - "5963519122"
 amazonS3_cache:
   - 'a:12:{s:60:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/1.png";i:240;s:68:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/1-300x123.png";i:240;s:60:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/2.png";i:272;s:68:"//www.capatek-tutorials.com/wp-content/uploads/2015/08/2-243x300.png";i:272;s:60:"//www.Capatek-tutorials.com/wp-content/uploads/2015/08/1.png";i:240;s:68:"//www.Capatek-tutorials.com/wp-content/uploads/2015/08/1-300x123.png";i:240;s:60:"//www.Capatek-tutorials.com/wp-content/uploads/2015/08/2.png";i:272;s:68:"//www.Capatek-tutorials.com/wp-content/uploads/2015/08/2-243x300.png";i:272;s:60:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/1.png";i:240;s:68:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/1-300x123.png";i:240;s:60:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/2.png";i:272;s:68:"//dev.capatek-tutorials.com/wp-content/uploads/2015/08/2-243x300.png";i:272;}'
-image: /wp-content/uploads/2015/08/logo-ubuntu_su-orange-hex.png
+cover: /wp-content/uploads/2015/08/logo-ubuntu_su-orange-hex.png
 categories:
   - Linux
 tags:
