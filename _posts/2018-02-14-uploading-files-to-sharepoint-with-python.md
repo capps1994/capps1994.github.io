@@ -11,7 +11,7 @@ amp_status:
   - enabled
 wpms_validate_analysis:
   - ""
-image: /wp-content/uploads/2018/02/python-logo-master-flat-e1518615221175.png
+cover: /wp-content/uploads/2018/02/python-logo-master-flat-e1518615221175.png
 categories:
   - Python
 tags:
