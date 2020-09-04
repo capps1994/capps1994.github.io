@@ -115,7 +115,7 @@ caplanc@Ubuntu-server:~$
 Todo this on Windows we need to install a program called putty you can get it here.
 <a href="http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.65-installer.exe">http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.65-installer.exe</a>
 
-<a href="/uploads/2015/08/PuTTY.png"><img class=" size-full wp-image-205 aligncenter" src="/uploads/2015/08/PuTTY.png" alt="PuTTY" /></a>
+<a href="/wp-content/uploads/2015/08/PuTTY.png"><img class=" size-full wp-image-205 aligncenter" src="/wp-content/uploads/2015/08/PuTTY.png" alt="PuTTY" /></a>
 It will ask for a username and password.
 
 When you enter it you should see the same message as above.

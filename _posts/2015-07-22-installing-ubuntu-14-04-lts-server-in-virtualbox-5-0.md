@@ -23,88 +23,88 @@ tags:
 <p align="left">Follow the on-screen instructions when install.</p>
 <p align="left">(note: this is not a tutorial on installing VirtualBox if people are having difficulty I will post a tutorial on how to install VirtualBox)</p>
 <p align="left">Next we download Ubuntu from their website <a href="http://www.ubuntu.com/download/server">http://www.ubuntu.com/download/server</a></p>
-<p align="center"><img class="aligncenter wp-image-104 size-large" src="/uploads/2015/07/1-1024x616.png" alt="1" width="1024" height="616" /></p>
+<p align="center"><img class="aligncenter wp-image-104 size-large" src="/wp-content/uploads/2015/07/1-1024x616.png" alt="1" width="1024" height="616" /></p>
 <p align="center">Once Ubuntu as downloaded we can start create the Virtual Machine file that VirtualBox uses.</p>
 <p align="center">(ignore this step and burn the .iso file to a disc or install it on a USB. If you are installing it on a PC )</p>
 <p align="center">open up VirtualBox and click new</p>
 <p align="center">Change the name and how much hard drive space you want for the Virtual Machine.</p>
-<p align="center"><a href="/uploads/2015/07/2.png"><img class="aligncenter wp-image-105 size-large" src="/uploads/2015/07/2-1024x616.png" alt="2" width="1024" height="616" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/2.png"><img class="aligncenter wp-image-105 size-large" src="/wp-content/uploads/2015/07/2-1024x616.png" alt="2" width="1024" height="616" /></a></p>
 <p align="center">These are my settings to for example.</p>
-<p align="center"><a href="/uploads/2015/07/3.png"><img class="aligncenter wp-image-106 size-large" src="/uploads/2015/07/3-1024x616.png" alt="3" width="1024" height="616" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/3.png"><img class="aligncenter wp-image-106 size-large" src="/wp-content/uploads/2015/07/3-1024x616.png" alt="3" width="1024" height="616" /></a></p>
 <p align="center">As you see in the top left, you will have a new entry that says Ubuntu (or what you called it in the previous step)</p>
-<p align="center"><a href="/uploads/2015/07/4.png"><img class="aligncenter wp-image-107 size-large" src="/uploads/2015/07/4-1024x616.png" alt="4" width="1024" height="616" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/4.png"><img class="aligncenter wp-image-107 size-large" src="/wp-content/uploads/2015/07/4-1024x616.png" alt="4" width="1024" height="616" /></a></p>
 <p align="center">Next you will need to change some settings so it will boot the file we downloaded earlier.</p>
-<p align="center"><a href="/uploads/2015/07/5.png"><img class="aligncenter wp-image-108 size-large" src="/uploads/2015/07/5-1024x616.png" alt="5" width="1024" height="616" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/5.png"><img class="aligncenter wp-image-108 size-large" src="/wp-content/uploads/2015/07/5-1024x616.png" alt="5" width="1024" height="616" /></a></p>
 <p align="center">Now you need to go to storage</p>
-<p align="center"><img class="aligncenter wp-image-109 size-full" src="/uploads/2015/07/6.png" alt="6" width="772" height="523" />Select the cd drive.</p>
-<p align="center"><a href="/uploads/2015/07/7.png"><img class="aligncenter wp-image-110 size-full" src="/uploads/2015/07/7.png" alt="7" width="772" height="658" /></a></p>
+<p align="center"><img class="aligncenter wp-image-109 size-full" src="/wp-content/uploads/2015/07/6.png" alt="6" width="772" height="523" />Select the cd drive.</p>
+<p align="center"><a href="/wp-content/uploads/2015/07/7.png"><img class="aligncenter wp-image-110 size-full" src="/wp-content/uploads/2015/07/7.png" alt="7" width="772" height="658" /></a></p>
 <p align="center">Select the little disc on the right.</p>
-<p align="center"><a href="/uploads/2015/07/8.png"><img class="aligncenter wp-image-111 size-full" src="/uploads/2015/07/8.png" alt="8" width="772" height="658" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/8.png"><img class="aligncenter wp-image-111 size-full" src="/wp-content/uploads/2015/07/8.png" alt="8" width="772" height="658" /></a></p>
 <p align="center">Navigate to where you save the Ubuntu.iso file we downloaded.</p>
-<p align="center"><a href="/uploads/2015/07/9.png"><img class="alignnone size-full wp-image-112" src="/uploads/2015/07/9.png" alt="9" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/9.png"><img class="alignnone size-full wp-image-112" src="/wp-content/uploads/2015/07/9.png" alt="9" /></a></p>
 <p align="center">Once you have selected the .iso file we can install Ubuntu!</p>
 <p align="center">We now need to start the virtual machine.</p>
 <p align="center">Once we start the virtual machine we need to run through the wizard.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.04.29.png"><img class="aligncenter wp-image-148 size-large" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.04.29-1024x616.png" alt="Screen Shot 2015-07-29 at 23.04.29" width="1024" height="616" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.04.29.png"><img class="aligncenter wp-image-148 size-large" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.04.29-1024x616.png" alt="Screen Shot 2015-07-29 at 23.04.29" width="1024" height="616" /></a></p>
 <p align="center">The steps are as follows.</p>
 <p align="center">Choose the language which the installer will view in.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.16.png"><img class="size-full wp-image-144 aligncenter" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.16.png" alt="Screen Shot 2015-07-29 at 23.05.16" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.16.png"><img class="size-full wp-image-144 aligncenter" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.16.png" alt="Screen Shot 2015-07-29 at 23.05.16" /></a></p>
 <p align="center">select install Ubuntu Server.</p>
 <p align="center">{image needed}</p>
 <p align="center">Select the language the installer will install Ubuntu as.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.47.png"><img class="size-full wp-image-142 aligncenter" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.47.png" alt="Screen Shot 2015-07-29 at 23.05.47" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.47.png"><img class="size-full wp-image-142 aligncenter" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.05.47.png" alt="Screen Shot 2015-07-29 at 23.05.47" /></a></p>
 <p align="center">Select the country you are in.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.09.png"><img class="alignnone size-full wp-image-133" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.09.png" alt="Screen Shot 2015-07-29 at 23.06.09" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.09.png"><img class="alignnone size-full wp-image-133" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.09.png" alt="Screen Shot 2015-07-29 at 23.06.09" /></a></p>
 <p align="center">I normally say no to this but I'm not stopping you from saying yes.</p>
 <p align="center">If you select yes it will ask you to enter some random keys and will detect what keyboard you have.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.25.png"><img class="alignnone size-full wp-image-146" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.25.png" alt="Screen Shot 2015-07-29 at 23.06.25" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.25.png"><img class="alignnone size-full wp-image-146" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.25.png" alt="Screen Shot 2015-07-29 at 23.06.25" /></a></p>
 <p align="center">If you selected no you get this screen.</p>
 <p align="center">Select what keyboard you have.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.54.png"><img class="alignnone size-full wp-image-147" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.54.png" alt="Screen Shot 2015-07-29 at 23.06.54" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.54.png"><img class="alignnone size-full wp-image-147" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.06.54.png" alt="Screen Shot 2015-07-29 at 23.06.54" /></a></p>
 <p align="center">Now the installer will start preparing everything to install.</p>
 <p align="center">Next it will ask what to call you server, I just called it something generic, but this could be file-server etc.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.20.17.png"><img class="size-full wp-image-140 aligncenter" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.20.17.png" alt="Screen Shot 2015-07-29 at 23.20.17" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.20.17.png"><img class="size-full wp-image-140 aligncenter" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.20.17.png" alt="Screen Shot 2015-07-29 at 23.20.17" /></a></p>
 <p align="center">Now it will ask some details about the user.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.21.41.png"><img class="alignnone size-full wp-image-153" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.21.41.png" alt="Screen Shot 2015-07-29 at 23.21.41" /></a></p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.22.53.png"><img class="alignnone size-full wp-image-129" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.22.53.png" alt="Screen Shot 2015-07-29 at 23.22.53" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.21.41.png"><img class="alignnone size-full wp-image-153" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.21.41.png" alt="Screen Shot 2015-07-29 at 23.21.41" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.22.53.png"><img class="alignnone size-full wp-image-129" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.22.53.png" alt="Screen Shot 2015-07-29 at 23.22.53" /></a></p>
 <p align="center">It will ask you to retype your password.</p>
-<p align="center"><img class="alignnone size-full wp-image-145" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.23.33.png" alt="Screen Shot 2015-07-29 at 23.23.33" /></p>
+<p align="center"><img class="alignnone size-full wp-image-145" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.23.33.png" alt="Screen Shot 2015-07-29 at 23.23.33" /></p>
 <p align="center">If you password is weak you may get this screen.</p>
 <p align="center">Just say yes to it if you want to keep your password as it is, or no to change the password to a stronger one.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.25.23.png"><img class="alignnone size-full wp-image-139" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.25.23.png" alt="Screen Shot 2015-07-29 at 23.25.23" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.25.23.png"><img class="alignnone size-full wp-image-139" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.25.23.png" alt="Screen Shot 2015-07-29 at 23.25.23" /></a></p>
 <p align="center">It will ask you if you want to encrypt your home directory, I normally say no to this, as this is not normally needed.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.26.23.png"><img class="alignnone size-full wp-image-137" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.26.23.png" alt="Screen Shot 2015-07-29 at 23.26.23" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.26.23.png"><img class="alignnone size-full wp-image-137" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.26.23.png" alt="Screen Shot 2015-07-29 at 23.26.23" /></a></p>
 <p align="center">Going into clock config now, if all goes well it should automatically, we already filled in the country details.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.27.32.png"><img class="alignnone size-full wp-image-134" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.27.32.png" alt="Screen Shot 2015-07-29 at 23.27.32" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.27.32.png"><img class="alignnone size-full wp-image-134" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.27.32.png" alt="Screen Shot 2015-07-29 at 23.27.32" /></a></p>
 <p align="center">Now its going to ask about formatting(deleting) everything from the hard drive.</p>
 <p align="center">I’ll go with “guided use entire disk”</p>
 <p align="center">We will get into LVM in another tutorial.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.31.08.png"><img class="alignnone size-full wp-image-143" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.31.08.png" alt="Screen Shot 2015-07-29 at 23.31.08" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.31.08.png"><img class="alignnone size-full wp-image-143" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.31.08.png" alt="Screen Shot 2015-07-29 at 23.31.08" /></a></p>
 <p align="center">It will ask which disk to format.</p>
 <p align="center">You should only have one disk, if you have more than one make sure that you do not have any other disks attached as you may format the wrong disk and it isn’t nice trust me!</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.32.37.png"><img class="alignnone size-full wp-image-135" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.32.37.png" alt="Screen Shot 2015-07-29 at 23.32.37" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.32.37.png"><img class="alignnone size-full wp-image-135" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.32.37.png" alt="Screen Shot 2015-07-29 at 23.32.37" /></a></p>
 <p align="center">It just going let you review the that you formatting the correct disk.</p>
 <p align="center">Double check and if correct select yes.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.34.25.png"><img class="alignnone size-full wp-image-132" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.34.25.png" alt="Screen Shot 2015-07-29 at 23.34.25" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.34.25.png"><img class="alignnone size-full wp-image-132" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.34.25.png" alt="Screen Shot 2015-07-29 at 23.34.25" /></a></p>
 <p align="center">Ubuntu is now installing.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.35.49.png"><img class="alignnone size-full wp-image-131" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.35.49.png" alt="Screen Shot 2015-07-29 at 23.35.49" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.35.49.png"><img class="alignnone size-full wp-image-131" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.35.49.png" alt="Screen Shot 2015-07-29 at 23.35.49" /></a></p>
 <p align="center">Wait 10 – 15 minutes and Ubuntu should be installed.</p>
 <p align="center">Once it has finished it will ask if you are using a proxy server, if you don’t know just say continue.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.40.40.png"><img class="alignnone size-full wp-image-150" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.40.40.png" alt="Screen Shot 2015-07-29 at 23.40.40" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.40.40.png"><img class="alignnone size-full wp-image-150" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.40.40.png" alt="Screen Shot 2015-07-29 at 23.40.40" /></a></p>
 <p align="center">When Ubuntu has just finished installing it will ask you if you want automatic security updates, for a production system this is recommended.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.52.11.png"><img class="alignnone size-full wp-image-152" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.52.11.png" alt="Screen Shot 2015-07-29 at 23.52.11" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.52.11.png"><img class="alignnone size-full wp-image-152" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.52.11.png" alt="Screen Shot 2015-07-29 at 23.52.11" /></a></p>
 <p align="center">Ubuntu is just setting up some extra software now.</p>
 <p align="center">It will ask what kind of server you would like.</p>
 <p align="center">We will want OpenSSH server as this will allow control the server remotely.</p>
 <p align="center">Note: to select an option hit the space bar not enter as it will go onto the next screen!</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.53.54.png"><img class="alignnone size-full wp-image-154" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.53.54.png" alt="Screen Shot 2015-07-29 at 23.53.54" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.53.54.png"><img class="alignnone size-full wp-image-154" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.53.54.png" alt="Screen Shot 2015-07-29 at 23.53.54" /></a></p>
 <p align="center">More loading bars.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.56.18.png"><img class="alignnone size-full wp-image-138" src="/uploads/2015/07/Screen-Shot-2015-07-29-at-23.56.18.png" alt="Screen Shot 2015-07-29 at 23.56.18" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.56.18.png"><img class="alignnone size-full wp-image-138" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-23.56.18.png" alt="Screen Shot 2015-07-29 at 23.56.18" /></a></p>
 <p align="center">It will ask you to install grub boot loader if you don’t know what this is, select yes.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.04.31.png"><img class="alignnone size-full wp-image-151" src="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.04.31.png" alt="Screen Shot 2015-07-30 at 00.04.31" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.04.31.png"><img class="alignnone size-full wp-image-151" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.04.31.png" alt="Screen Shot 2015-07-30 at 00.04.31" /></a></p>
 <p align="center">Yay its completed.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.07.03.png"><img class="alignnone size-full wp-image-141" src="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.07.03.png" alt="Screen Shot 2015-07-30 at 00.07.03" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.07.03.png"><img class="alignnone size-full wp-image-141" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.07.03.png" alt="Screen Shot 2015-07-30 at 00.07.03" /></a></p>
 <p align="center">Select continue and it will restart and you will have Ubuntu Server installed.</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.21.png"><img class="alignnone size-full wp-image-130" src="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.21.png" alt="Screen Shot 2015-07-30 at 00.08.21" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.21.png"><img class="alignnone size-full wp-image-130" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.21.png" alt="Screen Shot 2015-07-30 at 00.08.21" /></a></p>
 <p align="center">Once its rebooted enter your username and password and you have Ubuntu server at your disposal!</p>
-<p align="center"><a href="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.35.png"><img class="alignnone size-full wp-image-136" src="/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.35.png" alt="Screen Shot 2015-07-30 at 00.08.35" /></a></p>
+<p align="center"><a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.35.png"><img class="alignnone size-full wp-image-136" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-30-at-00.08.35.png" alt="Screen Shot 2015-07-30 at 00.08.35" /></a></p>

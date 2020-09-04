@@ -24,7 +24,7 @@ Today I'm going to show you how to install and setup a LAMP stack. LAMP Stands f
 
 This is a very powerful software stack used for creating websites and web APIS (Application Programming interface)
 
-So let's get started. If you are reading this post then I would like you have the Linux part installed, you can view my tutorial <a href="/topics/linux/ubuntu/installing-ubuntu-14-04-lts-server-in-virtualbox-5-0/">here</a>
+So let's get started. If you are reading this post then I would like you have the Linux part installed, you can view my tutorial <a href="/wp-content/topics/linux/ubuntu/installing-ubuntu-14-04-lts-server-in-virtualbox-5-0/">here</a>
 
 The easiest to install it is to use tasksel or you can install them individually.
 <pre class="toolbar-overlay:false lang:sh decode:true ">sudo tassel</pre>
@@ -32,7 +32,7 @@ The easiest to install it is to use tasksel or you can install them individually
 
 You should get a screen that looks like this.
 
-<a href="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png"><img class=" size-full wp-image-197 aligncenter" src="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png" alt="Screen Shot 2015-08-05 at 22.13.25" /></a>
+<a href="/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png"><img class=" size-full wp-image-197 aligncenter" src="/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png" alt="Screen Shot 2015-08-05 at 22.13.25" /></a>
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Select LAMP Server and let it do its thing and your good to go. :)
 
 When it gets around to installing MySQL it will ask you to create a root password, don't forget this password otherwise it will mean downtime for the server which no one wants.
 
-<a href="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png"><img class=" size-full wp-image-198 aligncenter" src="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png" alt="Screen Shot 2015-08-05 at 22.16.56" /></a>
+<a href="/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png"><img class=" size-full wp-image-198 aligncenter" src="/wp-content/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png" alt="Screen Shot 2015-08-05 at 22.16.56" /></a>
 
 &nbsp;
 
@@ -97,4 +97,4 @@ Now we can create a php script to test the configuration. If you create a file i
 <pre class="toolbar-overlay:false lang:php decode:true ">&lt;?php phpinfo();?&gt;</pre>
 &nbsp;
 
-There you have it, you should get something similar to this<img class="alignnone size-full wp-image-272" src="/uploads/2015/08/2.png" alt="2" width="711" height="877" />
+There you have it, you should get something similar to this<img class="alignnone size-full wp-image-272" src="/wp-content/uploads/2015/08/2.png" alt="2" width="711" height="877" />

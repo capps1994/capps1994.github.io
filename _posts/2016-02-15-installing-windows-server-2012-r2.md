@@ -25,11 +25,11 @@ Once you have download it you can either install it on a VM or install it straig
 
 Once you boot up the ISO file you will come across this screen.
 
-<img class="size-full wp-image-443 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_30_47.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_30_47" width="1024" height="768" />
+<img class="size-full wp-image-443 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_30_47.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_30_47" width="1024" height="768" />
 
 Set the correct language and keyboard layout and click next.
 
-<img class="size-full wp-image-442 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_32_15.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_32_15" width="1024" height="768" />
+<img class="size-full wp-image-442 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_32_15.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_32_15" width="1024" height="768" />
 
 Now click install now.
 
@@ -37,34 +37,34 @@ You will get this screen pop up now, I’m going to be installing “Windows Ser
 This will install windows server with the classic start menu.
 Server core only install windows PowerShell, and you manage the server from PowerShell this should only be used for advanced users only.
 
-<img class="size-full wp-image-441 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_33_30.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_33_30" width="1024" height="768" />
+<img class="size-full wp-image-441 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_33_30.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_33_30" width="1024" height="768" />
 
 &nbsp;
 
 Click next.
 
-<img class="size-full wp-image-440 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_38_18.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_38_18" width="1024" height="768" />
+<img class="size-full wp-image-440 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_38_18.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_38_18" width="1024" height="768" />
 
 Click the check box and click next.
 
 Click on custom
 
-<img class="size-full wp-image-439 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_39_47.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_39_47" width="1024" height="768" /> <img class="size-full wp-image-438 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_40_49.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_40_49" width="1024" height="768" />
+<img class="size-full wp-image-439 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_39_47.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_39_47" width="1024" height="768" /> <img class="size-full wp-image-438 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_40_49.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_40_49" width="1024" height="768" />
 
 Click new then apply
 
 Should look something like this now
 
-<img class="size-full wp-image-437 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_41_28.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_41_28" width="1024" height="768" />
+<img class="size-full wp-image-437 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_41_28.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_41_28" width="1024" height="768" />
 
 Now we’ll see it installing.
 
-<img class="size-full wp-image-436 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_42_21.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_42_21" width="1024" height="768" />
+<img class="size-full wp-image-436 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_42_21.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_42_21" width="1024" height="768" />
 
 Let it do this thing, it should reboot once it has finished.
 
 Next we set up our local administrator account. Enter your password and click finish
 
-<img class="size-full wp-image-435 aligncenter" src="/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_54_07.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_54_07" width="1024" height="768" />
+<img class="size-full wp-image-435 aligncenter" src="/wp-content/uploads/2016/02/VirtualBox_sharepoint-server-test_12_02_2016_14_54_07.png" alt="VirtualBox_sharepoint server test_12_02_2016_14_54_07" width="1024" height="768" />
 
 Next it will take you to the log in screen, log and that’s it.

@@ -90,7 +90,7 @@ once these files are downloaded on our client machine it should be a case of jus
 
 Do the same for the ca.crt file as you may get some trust issues with the computer. but this isn't mandatory as it should without.
 
-Now when you go to browse to the web service the web browser should ask what certificate to use.<img class="size-full wp-image-603 aligncenter" src="/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13.png" alt="" width="1280" height="643" />
+Now when you go to browse to the web service the web browser should ask what certificate to use.<img class="size-full wp-image-603 aligncenter" src="/wp-content/uploads/2017/03/Screen-Shot-2017-03-18-at-02.51.13.png" alt="" width="1280" height="643" />
 
 &nbsp;
 
