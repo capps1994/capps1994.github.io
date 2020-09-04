@@ -24,7 +24,7 @@ Today I'm going to show you how to install and setup a LAMP stack. LAMP Stands f
 
 This is a very powerful software stack used for creating websites and web APIS (Application Programming interface)
 
-So let's get started. If you are reading this post then I would like you have the Linux part installed, you can view my tutorial <a href="https://www.capatek-tutorials.com/topics/linux/ubuntu/installing-ubuntu-14-04-lts-server-in-virtualbox-5-0/">here</a>
+So let's get started. If you are reading this post then I would like you have the Linux part installed, you can view my tutorial <a href="/topics/linux/ubuntu/installing-ubuntu-14-04-lts-server-in-virtualbox-5-0/">here</a>
 
 The easiest to install it is to use tasksel or you can install them individually.
 <pre class="toolbar-overlay:false lang:sh decode:true ">sudo tassel</pre>
@@ -32,7 +32,7 @@ The easiest to install it is to use tasksel or you can install them individually
 
 You should get a screen that looks like this.
 
-<a href="https://www.capatek-tutorials.com/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png"><img class=" size-full wp-image-197 aligncenter" src="https://www.capatek-tutorials.com/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png" alt="Screen Shot 2015-08-05 at 22.13.25" /></a>
+<a href="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png"><img class=" size-full wp-image-197 aligncenter" src="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.13.25.png" alt="Screen Shot 2015-08-05 at 22.13.25" /></a>
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Select LAMP Server and let it do its thing and your good to go. :)
 
 When it gets around to installing MySQL it will ask you to create a root password, don't forget this password otherwise it will mean downtime for the server which no one wants.
 
-<a href="https://www.capatek-tutorials.com/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png"><img class=" size-full wp-image-198 aligncenter" src="https://www.capatek-tutorials.com/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png" alt="Screen Shot 2015-08-05 at 22.16.56" /></a>
+<a href="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png"><img class=" size-full wp-image-198 aligncenter" src="/uploads/2015/08/Screen-Shot-2015-08-05-at-22.16.56.png" alt="Screen Shot 2015-08-05 at 22.16.56" /></a>
 
 &nbsp;
 
@@ -70,7 +70,7 @@ When you install MySQL server it will ask your for a password as it did above.
 &nbsp;
 <p style="text-align: left;">You should get something like this</p>
 
-<pre class="lang:sh highlight:0 decode:true crayon-selected">eth0         Link encap:Ethernet HWaddr 08:00:27:08:71:26 
+<pre class="lang:sh highlight:0 decode:true crayon-selected">eth0         Link encap:Ethernet HWaddr 08:00:27:08:71:26
              inet addr:192.168.0.13 Bcast:192.168.0.255 Mask:255.255.255.0
              inet6 addr: fe80::a00:27ff:fe08:7126/64 Scope:Link
              inet6 addr: fd93:225a:6a91:0:b80c:21cc:138e:e0b9/64 Scope:Global
@@ -78,7 +78,7 @@ When you install MySQL server it will ask your for a password as it did above.
              UP BROADCAST RUNNING MULTICAST MTU:1500 Metric:1
              RX packets:96 errors:0 dropped:0 overruns:0 frame:0
              TX packets:97 errors:0 dropped:0 overruns:0 carrier:0
-             collisions:0 txqueuelen:1000 
+             collisions:0 txqueuelen:1000
              RX bytes:15224 (15.2 KB) TX bytes:12579 (12.5 KB)
 
 lo           Link encap:Local Loopback
@@ -87,7 +87,7 @@ lo           Link encap:Local Loopback
              UP LOOPBACK RUNNING MTU:65536 Metric:1
              RX packets:0 errors:0 dropped:0 overruns:0 frame:0
              TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
-             collisions:0 txqueuelen:0 
+             collisions:0 txqueuelen:0
              RX bytes:0 (0.0 B) TX bytes:0 (0.0 B)</pre>
 <h3 style="text-align: center;"></h3>
 <h3 style="text-align: center;"><strong><span style="text-decoration: underline;">Create your first PHP script.</span></strong></h3>
@@ -97,4 +97,4 @@ Now we can create a php script to test the configuration. If you create a file i
 <pre class="toolbar-overlay:false lang:php decode:true ">&lt;?php phpinfo();?&gt;</pre>
 &nbsp;
 
-There you have it, you should get something similar to this<img class="alignnone size-full wp-image-272" src="https://www.capatek-tutorials.com/uploads/2015/08/2.png" alt="2" width="711" height="877" />
+There you have it, you should get something similar to this<img class="alignnone size-full wp-image-272" src="/uploads/2015/08/2.png" alt="2" width="711" height="877" />

@@ -35,18 +35,18 @@ Open puttygen.
 
 &nbsp;
 
-<span style="color: #000000; font-family: Calibri;"><img class="size-full wp-image-383 aligncenter" src="https://www.capatek-tutorials.com/uploads/2016/02/image001.jpg" alt="image001" width="328" height="317" /></span>
+<span style="color: #000000; font-family: Calibri;"><img class="size-full wp-image-383 aligncenter" src="/uploads/2016/02/image001.jpg" alt="image001" width="328" height="317" /></span>
 
 Click load
 
 &nbsp;
 
-<img class="size-full wp-image-384 aligncenter" src="https://www.capatek-tutorials.com/uploads/2016/02/image002.jpg" alt="image002" width="403" height="323" />
+<img class="size-full wp-image-384 aligncenter" src="/uploads/2016/02/image002.jpg" alt="image002" width="403" height="323" />
 You won’t see any files as the open dialog is set to only look for .ppk files make sure you change the file dropdown so it says all files.
 
 &nbsp;
 
-<img class="size-full wp-image-385 aligncenter" src="https://www.capatek-tutorials.com/uploads/2016/02/image003.jpg" alt="image003" width="487" height="390" />
+<img class="size-full wp-image-385 aligncenter" src="/uploads/2016/02/image003.jpg" alt="image003" width="487" height="390" />
 
 You should see your .pem files now click on the file and click open.
 
@@ -56,7 +56,7 @@ You should get this dialog now
 
 &nbsp;
 
-<img class="size-full wp-image-386 aligncenter" src="https://www.capatek-tutorials.com/uploads/2016/02/image004.png" alt="image004" width="329" height="214" />
+<img class="size-full wp-image-386 aligncenter" src="/uploads/2016/02/image004.png" alt="image004" width="329" height="214" />
 
 Click ok and then click save private key.
 
@@ -68,7 +68,7 @@ It will give you this dialog it’s up to you if you can to password protect the
 
 &nbsp;
 
-<img class="size-full wp-image-387 aligncenter" src="https://www.capatek-tutorials.com/uploads/2016/02/image005.png" alt="image005" width="321" height="171" />
+<img class="size-full wp-image-387 aligncenter" src="/uploads/2016/02/image005.png" alt="image005" width="321" height="171" />
 
 Say yes to this is you don’t want to password protect this.
 

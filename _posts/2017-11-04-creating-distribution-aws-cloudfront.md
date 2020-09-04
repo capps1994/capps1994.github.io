@@ -42,21 +42,21 @@ We do this by logging into the AWS Console.
 
 Once logged in we can go to CloudFront
 
-<img class="alignnone size-full wp-image-670" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/10/Screen_Shot_2017-10-29_at_21_48_16-1.png" alt="" width="1392" height="824" />
+<img class="alignnone size-full wp-image-670" src="/wp-content/uploads/2017/10/Screen_Shot_2017-10-29_at_21_48_16-1.png" alt="" width="1392" height="824" />
 
-<img class="alignnone size-full wp-image-671" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/10/Screen_Shot_2017-10-29_at_21_24_03.png" alt="" width="1392" height="824" /><img class="alignnone size-full wp-image-672" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-21.24.09.png" alt="" width="1392" height="824" />
+<img class="alignnone size-full wp-image-671" src="/wp-content/uploads/2017/10/Screen_Shot_2017-10-29_at_21_24_03.png" alt="" width="1392" height="824" /><img class="alignnone size-full wp-image-672" src="/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-21.24.09.png" alt="" width="1392" height="824" />
 
-<img class="alignnone size-full wp-image-673" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-21.24.24.png" alt="" width="1392" height="824" />
+<img class="alignnone size-full wp-image-673" src="/wp-content/uploads/2017/10/Screen-Shot-2017-10-29-at-21.24.24.png" alt="" width="1392" height="824" />
 
 <strong>Note: Do not use the www. or your zone <b>apex (root domain such as example.com) as your origin, if your server is already using your root domain you may need to move it as this will cause problems with DNS. Don't worry if are using the root domain or www. I will cover how to deal with DNS in another tutorial.</b></strong>
 
 AWS will autofill most of the form most of the parts are quick self-explanatory view protocol policy is how the client(web browser) connects to clout front. Allowed HTTP Methods are blocking requests of certain types if you are putting a full website behind CloudFront you probably want GET, HEAD, OPTIONS, PUT, POST, PATCH, DELETE as this will give the same feeling as being on the original, if your website hasn't got any forms you may able to get away with GET, HEAD.
 
-<img class="alignnone size-full wp-image-716" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/11/Screen-Shot-2017-10-29-at-21.24.29.png" alt="" width="1392" height="824" />
+<img class="alignnone size-full wp-image-716" src="/wp-content/uploads/2017/11/Screen-Shot-2017-10-29-at-21.24.29.png" alt="" width="1392" height="824" />
 
 We change these two to keep any cookies or query strings (www.exaple.com/?h=test) that may be used on your site
 
-<img class="alignnone size-full wp-image-717" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/11/Screen-Shot-2017-10-29-at-21.24.35.png" alt="" width="1392" height="824" />
+<img class="alignnone size-full wp-image-717" src="/wp-content/uploads/2017/11/Screen-Shot-2017-10-29-at-21.24.35.png" alt="" width="1392" height="824" />
 
 This is why I said that we need www. free as CloudFront will be in front (no pun intended)of the website.
 
@@ -64,19 +64,19 @@ If you don't it's not a big deal all we need to do is change the DNS of www. poi
 
 This can be left bank if you are happy to use something like https://123456789.cloudfront.net/ you may want this if you are using cloud front to cache images for your site (also out of scope)
 
-<img class="alignnone size-full wp-image-719" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/11/Screen-Shot-2017-10-29-at-21.24.59.png" alt="" width="1392" height="824" />
+<img class="alignnone size-full wp-image-719" src="/wp-content/uploads/2017/11/Screen-Shot-2017-10-29-at-21.24.59.png" alt="" width="1392" height="824" />
 
 &nbsp;
 
 We can leave the rest as default. Click Create Distribution!
 
-<img class="alignnone size-full wp-image-720" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-04-at-19.09.21.png" alt="" width="1392" height="821" />
+<img class="alignnone size-full wp-image-720" src="/wp-content/uploads/2017/11/Screen-Shot-2017-11-04-at-19.09.21.png" alt="" width="1392" height="821" />
 
 There you have it the distribution is in process of getting created, you will probably want to grab a coffee while this is creating.
 
 You can view all the options once this has been created. most of the settings we have set already can be changed.
 
-<img class="alignnone size-full wp-image-722" src="https://www.capatek-tutorials.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-04-at-19.09.28.png" alt="" width="1392" height="821" />
+<img class="alignnone size-full wp-image-722" src="/wp-content/uploads/2017/11/Screen-Shot-2017-11-04-at-19.09.28.png" alt="" width="1392" height="821" />
 
 We will get into these options in later tutorials
 

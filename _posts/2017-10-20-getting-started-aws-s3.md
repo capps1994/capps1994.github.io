@@ -24,17 +24,17 @@ There is only one requirement in this tutorial which is an AWS account.
 
 So if you log into your AWS account you will be presented with the screen below.
 
-Then if you click on S3 as annotated on the screen. <img class="alignnone wp-image-643 size-full" src="https://www.capatek-tutorials.com/uploads/2017/10/Screen-Shot-2017-10-20-at-00.47.15-1.png" alt="" width="1392" height="828" />
+Then if you click on S3 as annotated on the screen. <img class="alignnone wp-image-643 size-full" src="/uploads/2017/10/Screen-Shot-2017-10-20-at-00.47.15-1.png" alt="" width="1392" height="828" />
 
-<img class="alignnone wp-image-644 size-full" src="https://www.capatek-tutorials.com/uploads/2017/10/s3-console.png" alt="" width="1557" height="672" />
+<img class="alignnone wp-image-644 size-full" src="/uploads/2017/10/s3-console.png" alt="" width="1557" height="672" />
 
 &nbsp;
 
-<img class="alignnone wp-image-648 size-full" src="https://www.capatek-tutorials.com/uploads/2017/10/Screen-Shot-2017-10-20-at-00.38.10-1.png" alt="" width="1392" height="828" />
+<img class="alignnone wp-image-648 size-full" src="/uploads/2017/10/Screen-Shot-2017-10-20-at-00.38.10-1.png" alt="" width="1392" height="828" />
 
-<img class="alignnone wp-image-649 size-full" src="https://www.capatek-tutorials.com/uploads/2017/10/Screen-Shot-2017-10-20-at-00.39.46.png" alt="" width="1392" height="828" />
+<img class="alignnone wp-image-649 size-full" src="/uploads/2017/10/Screen-Shot-2017-10-20-at-00.39.46.png" alt="" width="1392" height="828" />
 
-When you click on the bucket you will get this page<img class="alignnone wp-image-650 size-full" src="https://www.capatek-tutorials.com/uploads/2017/10/Screen-Shot-2017-10-20-at-01.12.48.png" alt="" width="1392" height="829" />
+When you click on the bucket you will get this page<img class="alignnone wp-image-650 size-full" src="/uploads/2017/10/Screen-Shot-2017-10-20-at-01.12.48.png" alt="" width="1392" height="829" />
 
 Then you can upload a file(can be any type).
 
