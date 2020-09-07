@@ -2,7 +2,7 @@
 key: uploading-files-to-sharepoint-with-python
 title: Uploading files to SharePoint with Python
 date: 2018-02-14T13:30:53+00:00
-author: Christopher Caplan
+show_author_profile: true
 guid: https://dev.capatek-tutorials.com/?p=753
 permalink: /python/uploading-files-to-sharepoint-with-python/
 amazonS3_cache:
