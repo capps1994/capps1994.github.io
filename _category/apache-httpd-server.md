@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Apache HTTPD Server
-permalink: /category/apache-httpd-server.html
+permalink: /category/apache-httpd-server
 cover: /wp-content/uploads/2017/03/apache-httpd.png
 tag: Apache HTTP Server
 articles:

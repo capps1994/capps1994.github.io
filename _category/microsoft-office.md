@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Microsoft Office
-permalink: /category/microsoft-office.html
+permalink: /category/microsoft-office
 cover: /wp-content/uploads/2015/12/Outlook.png
 tag: Microsoft Office
 articles:

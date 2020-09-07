@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Linux
-permalink: /category/linux.html
+permalink: /category/linux
 cover: /wp-content/uploads/2015/08/logo-ubuntu_su-orange-hex.png
 tag: Linux
 articles:

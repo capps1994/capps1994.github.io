@@ -3,7 +3,7 @@ header:
       # @start locale config
       en      : &EN       Categories
       # @end locale config
-    url: /categories.html
+    url: /categories
   - titles:
       # @start locale config
       en      : &EN       Archive

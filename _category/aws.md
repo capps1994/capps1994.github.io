@@ -1,7 +1,7 @@
 ---
 layout: category
 title: AWS
-permalink: /category/aws.html
+permalink: /category/aws
 cover: /wp-content/uploads/2016/02/amazon-aws-e1457916195618.png
 tag: aws
 articles:

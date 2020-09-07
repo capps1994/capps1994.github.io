@@ -1,7 +1,7 @@
 ---
 layout: category
 title: MySQL
-permalink: /category/mysql.html
+permalink: /category/mysql
 cover: /wp-content/uploads/2016/01/MySQL.png
 tag: MySQL
 articles:
