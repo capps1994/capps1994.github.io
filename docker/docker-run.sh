@@ -1,4 +1,4 @@
-export JEKYLL_VERSION=3.8                                                              21:25:58
+export JEKYLL_VERSION=3.8
 docker run --rm \
   -v "$PWD:/srv/jekyll" \
   -v "$PWD/vendor/bundle:/usr/local/bundle" \
