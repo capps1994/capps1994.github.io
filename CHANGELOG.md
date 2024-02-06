@@ -1,11 +1,24 @@
 # Change Log
 
-## 2.2.4 (2019-12-08)
+## 2.2.6 (2019-02-02)
+
+### Enhancements
+
+- Add [commit linter](https://commitlint.js.org/)
+- Add [EditorConfig](https://editorconfig.org/)
+- Update npm packages
+
+### Bug Fixes
+
+- Fix some spelling errors in documents
+- Fix some errors in configs
+
+## 2.2.5 (2019-12-08)
 
 ### Enhancements
 
 - Update to Jekyll 4.0
-- Add custom snippets for main/top, main/bottom, article/top,  article/bottom, etc.
+- Add custom snippets for main/top, main/bottom, article/top,  article/bottom, etc
 - Add Medium, Zhihu social icons
 - Add Google Custom Search support
 - Add Korean locale (@ssosso)
@@ -105,7 +118,7 @@
 
 ## 2.0.0 (2018-07-01)
 
-Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-from-1-to-2) for details
+Breaking changes, please check [Update from 1.x to 2.x](https://kitian616.github.io/jekyll-TeXt-theme/docs/en/update-from-1-to-2) for details
 
 ### Enhancements
 
