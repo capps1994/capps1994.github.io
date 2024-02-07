@@ -3,10 +3,10 @@ version: "3.5"
 services:
   jekyll-text-theme_dev:
     build:
-      context: ../
+      context: ..
       dockerfile: Dockerfile.dev
     environment:
-      - JEKYLL_ENV
+      - JEKYLL_ENV=production
     ports:
       - 4000:4000
     container_name: jekyll-TeXt-theme_dev
