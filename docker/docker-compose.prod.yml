@@ -2,14 +2,12 @@ version: "3.5"
 
 services:
   jekyll-text-theme_build:
-    image: docker_jekyll-text-theme_dev
-    environment:
-      - JEKYLL_ENV
-    ports:
-      - 4000:4000
-    container_name: jekyll-text-theme_build
+    build:
+      context: ../
+      dockerfile: Dockerfile.dev
     volumes:
-      - ..:/usr/src/app
+      - ../:/usr/src/app
+    container_name: jekyll-text-theme_build
     command: bundle exec jekyll build
   jekyll-text-theme_web:
     image: nginx
